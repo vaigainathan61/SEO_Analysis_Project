@@ -1,0 +1,22 @@
+
+## 🚀 How to Run
+1. Open `SEO_Analysis.ipynb` in **Google Colab** or **Jupyter Notebook**  
+2. Upload `big-sports.csv` when prompted  
+3. Run all cells to reproduce the analysis  
+4. View generated charts in the output section or export them to the `outputs/` folder  
+
+## 🔍 Key Insights
+- 🇫🇷 **France** has the highest impressions but low CTR → optimize meta descriptions  
+- 🇧🇷 **Brazil** has strong CTR despite lower impressions → high engagement potential  
+- Keywords like *“sports betting odds”* rank between 7–10 → major ranking opportunity  
+- Competitors outrank us on *“online betting bonus”* → prioritize backlinks & content quality  
+
+## 🧭 Recommendations
+- Improve on-page SEO for high-volume, low-ranking keywords  
+- Strengthen backlink profile for competitive terms  
+- Localize content for each market  
+- Refresh meta titles and descriptions to boost CTR  
+
+## 👤 Author
+**Vaigainathan**  
+Data Engineering / SEO Analytics Candidate
